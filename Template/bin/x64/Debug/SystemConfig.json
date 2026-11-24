@@ -1,0 +1,13 @@
+﻿{
+  "SystemTitle": "自動化控制系統",
+  "Parameters": [
+    {
+      "ServerIp": "192.168.1.50",
+      "Port": 100
+    },
+    {
+      "ServerIp": "192.168.1.10",
+      "Port": 100
+    }
+  ]
+}
